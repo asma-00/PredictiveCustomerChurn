@@ -1,8 +1,6 @@
-# PredictiveCustomerChurn
-Predictive Customer Churn Analysis
-# Predictive Customer Churn Analysis for a Subscription-Based SaaS Company
+# Predictive Customer Churn Analysis
 
-This project leverages machine learning to identify customers at risk of churning for a fictional SaaS business. By analyzing patterns in customer behavior and service usage, the goal is to provide actionable insights to improve customer retention strategies.
+This project leverages machine learning to identify customers at risk of churning. By analyzing patterns in customer behavior and service usage, the goal is to provide actionable insights to improve customer retention strategies.
 
 ---
 
