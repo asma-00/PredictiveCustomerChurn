@@ -96,7 +96,7 @@ Based on the analysis:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
 git clone https://github.com/asma-00/PredictiveCustomerChurn.git
@@ -111,7 +111,7 @@ jupyter notebook notebooks/PredictiveCustomerChurn.ipynb
 
 ---
 
-## 📌 Final Thoughts
+## Final Thoughts
 
 This project demonstrates a complete end-to-end workflow of a data analysis / data science project:
 - Problem framing
